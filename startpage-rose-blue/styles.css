@@ -1,11 +1,12 @@
+/*
+Author: Ujjwal Biswas
+It's free to use code 
+*/
 @import url("https://fonts.googleapis.com/css?family=Sacramento&display=swap");
 
 #clock {
   font-size: calc(20px + 18vh);
   line-height: calc(20px + 20vh);
-/*   text-shadow: 0 0 5px #f562ff, 0 0 15px #f562ff, 0 0 25px #f562ff,
-    0 0 20px #f562ff, 0 0 30px #890092, 0 0 80px #890092, 0 0 80px #890092;
-  color: #fccaff; */
   text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000;
     color: #fff6a9;
   font-family: "Sacramento", cursive;
@@ -76,9 +77,6 @@ body {
 }
 
 .welcome-container {
-    /*   text-shadow: 0 0 5px #f562ff, 0 0 15px #f562ff, 0 0 25px #f562ff,
-    0 0 20px #f562ff, 0 0 30px #890092, 0 0 80px #890092, 0 0 80px #890092;
-  color: #fccaff; */
   text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000;
     color: #fff6a9;
   font-family: sans-serif;
@@ -145,9 +143,6 @@ body {
     vertical-align: top;
 }
 .bookmark-title {
-    /*   text-shadow: 0 0 5px #f562ff, 0 0 15px #f562ff, 0 0 25px #f562ff,
-    0 0 20px #f562ff, 0 0 30px #890092, 0 0 80px #890092, 0 0 80px #890092;
-  color: #fccaff; */
  text-shadow: 0 0 5px #F03157, 0 0 15px #F03157, 0 0 20px #F03157, 0 0 40px #F03157, 0 0 60px #ED0432, 0 0 10px #FF007F, 0 0 98px #ED0432;
     color: #FFCEF2;
   font-family: sans-serif;
@@ -164,9 +159,6 @@ body {
     margin: 0em 0em .35em 0em;
 }
 .bookmark {
-/*   text-shadow: 0 0 5px #f562ff, 0 0 15px #f562ff, 0 0 25px #f562ff,
-    0 0 20px #f562ff, 0 0 30px #890092, 0 0 80px #890092, 0 0 80px #890092;
-  color: #fccaff; */
   text-shadow: 0 0 5px #6700E0, 0 0 15px #6700E0, 0 0 20px #6700E0, 0 0 40px #6700E0, 0 0 60px #6500F0, 0 0 10px #9939F7, 0 0 98px #6500F0;
     color: #7CF6FF;
   font-family: sans-serif;
@@ -200,9 +192,6 @@ body {
   54%,
   56%,
   100% {
-/*     color: #fccaff;
-    text-shadow: 0 0 5px #f562ff, 0 0 15px #f562ff, 0 0 25px #f562ff,
-      0 0 20px #f562ff, 0 0 30px #890092, 0 0 80px #890092, 0 0 80px #890092; */
   text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000;
     color: #fff6a9;
   }
@@ -224,16 +213,13 @@ body {
   54%,
   56%,
   100% {
-/*     color: #fccaff;
-    text-shadow: 0 0 5px #f562ff, 0 0 15px #f562ff, 0 0 25px #f562ff,
-      0 0 20px #f562ff, 0 0 30px #890092, 0 0 80px #890092, 0 0 80px #890092; */
   text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000;
     color: #fff6a9;
   }
 }
 
 /*
-Just checking if things works
+
 */
 
 @-webkit-keyframes blink-rose {
@@ -252,9 +238,6 @@ Just checking if things works
   54%,
   56%,
   100% {
-/*     color: #fccaff;
-    text-shadow: 0 0 5px #f562ff, 0 0 15px #f562ff, 0 0 25px #f562ff,
-      0 0 20px #f562ff, 0 0 30px #890092, 0 0 80px #890092, 0 0 80px #890092; */
   text-shadow: 0 0 5px #F03157, 0 0 15px #F03157, 0 0 20px #F03157, 0 0 40px #F03157, 0 0 60px #ED0432, 0 0 10px #FF007F, 0 0 98px #ED0432;
     color: #FFCEF2;
   }
@@ -276,9 +259,6 @@ Just checking if things works
   54%,
   56%,
   100% {
-/*     color: #fccaff;
-    text-shadow: 0 0 5px #f562ff, 0 0 15px #f562ff, 0 0 25px #f562ff,
-      0 0 20px #f562ff, 0 0 30px #890092, 0 0 80px #890092, 0 0 80px #890092; */
   text-shadow: 0 0 5px #F03157, 0 0 15px #F03157, 0 0 20px #F03157, 0 0 40px #F03157, 0 0 60px #ED0432, 0 0 10px #FF007F, 0 0 98px #ED0432;
     color: #FFCEF2;
   }
@@ -304,9 +284,6 @@ Just checking if things works
   54%,
   56%,
   100% {
-/*     color: #fccaff;
-    text-shadow: 0 0 5px #f562ff, 0 0 15px #f562ff, 0 0 25px #f562ff,
-      0 0 20px #f562ff, 0 0 30px #890092, 0 0 80px #890092, 0 0 80px #890092; */
   text-shadow: 0 0 5px #6700E0, 0 0 15px #6700E0, 0 0 20px #6700E0, 0 0 40px #6700E0, 0 0 60px #6500F0, 0 0 10px #9939F7, 0 0 98px #6500F0;
     color: #7CF6FF;
   }
@@ -328,9 +305,6 @@ Just checking if things works
   54%,
   56%,
   100% {
-/*     color: #fccaff;
-    text-shadow: 0 0 5px #f562ff, 0 0 15px #f562ff, 0 0 25px #f562ff,
-      0 0 20px #f562ff, 0 0 30px #890092, 0 0 80px #890092, 0 0 80px #890092; */
   text-shadow: 0 0 5px #6700E0, 0 0 15px #6700E0, 0 0 20px #6700E0, 0 0 40px #6700E0, 0 0 60px #6500F0, 0 0 10px #9939F7, 0 0 98px #6500F0;
     color: #7CF6FF;
   }
